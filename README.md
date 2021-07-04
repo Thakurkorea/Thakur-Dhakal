@@ -1,4 +1,4 @@
-# Thakur-Dhakal   MY first spatial analysis 
+# Thakur-Dhakal   MY first spatial trial
 ## pandas to plot points 
 import numpy as np 
 import geopandas as gpd
